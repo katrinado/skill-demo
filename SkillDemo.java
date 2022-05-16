@@ -1,1 +1,6 @@
-//let's see if this works
+public class SkillDemo {
+ public static int multiply(int n, int m) {
+    return n*m;
+ }
+}
+//does this work?
